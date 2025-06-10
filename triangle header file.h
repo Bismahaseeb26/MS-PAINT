@@ -1,0 +1,12 @@
+void pyramid_filled_triangle(int size,char pos,char character_input,char fill_col, char outline_col);
+void pyramid_hollow_triangle(int size,char pos, char character_input,char fill_col, char outline_col);
+void pyramid_inverted_filled_triangle(int size,char pos,char character_input,char fill_col, char outline_col);
+void pyramid_inverted_hollow_triangle(int size,char pos,char character_input,char fill_col, char outline_col);
+void right_filled_triangle(int size,char pos, char character_input,char fill_col, char outline_col);
+void right_hollow_triangle(int size,char pos, char character_input,char fill_col, char outline_col);
+void right_mirrored_filled_triangle(int size,char pos, char character_input,char fill_col, char outline_col);
+void right_mirrored_hollow_triangle(int size, char pos, char character_input,char fill_col, char outline_col);
+void right_inverted_filled_triangle(int size,char pos, char character_input,char fill_col, char outline_col);
+void right_inverted_hollow_triangle(int size,char pos, char character_input,char fill_col, char outline_col);
+void right_inverted_mirrored_filled_triangle(int size,char pos,char character_input,char fill_col, char outline_col);
+void right_inverted_mirrored_hollow_triangle(int size,char pos, char character_input,char fill_col, char outline_col);

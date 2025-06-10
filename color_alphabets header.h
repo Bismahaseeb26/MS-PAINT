@@ -1,0 +1,1 @@
+void get_colour(char fill_col, char outline_col);

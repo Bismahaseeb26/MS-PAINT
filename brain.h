@@ -1,0 +1,18 @@
+void triangle_functions(int fill_input,char pos, int type_input,int size,char character_input,char fill_col, char outline_col);
+void alphabets_functions(int height, char start_char, char end_char, char character_type, char color_choice);
+void numbers_functions(int height, char start_num, char end_num,char character_selection, char color_choice);
+void sqaure_function(int fill_input, char pos, int size, char character_input,char fill_col, char outline_col);
+void butterfly_function(int fill_input,char pos,  int size, char character_input,char fill_col, char outline_col);
+void oval_function(int fill_input, char pos,int size, char character_input, char fill_col, char outline_col);
+void heart_function(int fill_input,char pos, int size, char character_input, char fill_col, char outline_col);
+void daimond_function(int type_input,char pos, int fill_input, int size, char character_input, char fill_col, char outline_col);
+void hexagon_function(int fill_input,char pos, int size, char character_input, char fill_col, char outline_col);
+void trapezium_function(int fill_input,char pos, int size, char character_input, char fill_col, char outline_col);
+void parallelogram_function(int fill_input,char pos, int size, char character_input, char fill_col, char outline_col);
+void arrow_function(int type_input,char pos, int size, char character_input, char fill_col);
+void pentagon_function(int fill_input,char pos, int size, char character_input, char fill_col, char outline_col);
+void gotoxy(int x, int y);
+void setConsoleColor(int color);
+void clearCell(int x, int y);
+int isSpacebarPressed();
+int isArrowKeyPressed();
